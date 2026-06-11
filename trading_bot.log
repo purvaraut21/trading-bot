@@ -1,0 +1,22 @@
+2026-06-10 21:52:57,231 - INFO - MARKET ORDER REQUEST -> Symbol: BTCUSDT, Side:BUY, Quantity:0.001
+2026-06-10 21:52:57,232 - ERROR - MARKET ORDER ERROR -> API Secret required for private endpoints
+2026-06-11 12:24:07,690 - INFO - MARKET ORDER REQUEST -> Symbol: BTCUSDT, Side:BUY, Quantity:0.001
+2026-06-11 12:24:08,147 - ERROR - MARKET ORDER ERROR -> APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-06-11 13:22:54,840 - INFO - MARKET ORDER REQUEST -> Symbol: BTCUSDT, Side:BUY, Quantity:0.001
+2026-06-11 13:22:55,304 - INFO - MARKET ORDER RESPONSE -> {'orderId': 14717833459, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ9d46053965b609d358a8e4', 'price': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1781164375219}
+2026-06-11 13:23:18,474 - INFO - LIMIT ORDER REQUEST-> Symbol: BTCUSDT, Side:BUY, Quantity:0.001, Price:50000
+2026-06-11 13:23:18,839 - INFO - LIMIT ORDER RESPONSE -> {'orderId': 14717933435, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJc1ddf1ef6d8030ad3872f6', 'price': '50000.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1781164398774}
+2026-06-11 13:26:06,017 - INFO - LIMIT ORDER REQUEST-> Symbol: BTCUSDT, Side:BUY, Quantity:0.001, Price:50000
+2026-06-11 13:26:07,408 - INFO - LIMIT ORDER RESPONSE -> {'orderId': 14718638066, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJc9480930968d7e56319b3', 'price': '50000.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1781164567343}
+2026-06-11 13:54:10,184 - INFO - LIMIT ORDER REQUEST-> Symbol: BTCUSDT, Side:BUY, Quantity:0.001, Price:50000
+2026-06-11 13:54:10,563 - ERROR - LIMIT ORDER ERROR -> APIError(code=-2014): API-key format invalid.
+2026-06-11 13:56:33,535 - INFO - LIMIT ORDER REQUEST-> Symbol: BTCUSDT, Side:BUY, Quantity:0.001, Price:50000
+2026-06-11 13:56:33,874 - ERROR - LIMIT ORDER ERROR -> APIError(code=-2014): API-key format invalid.
+2026-06-11 13:56:55,215 - INFO - LIMIT ORDER REQUEST-> Symbol: BTCUSDT, Side:BUY, Quantity:0.001, Price:50000
+2026-06-11 13:56:55,519 - ERROR - LIMIT ORDER ERROR -> APIError(code=-2014): API-key format invalid.
+2026-06-11 13:58:18,946 - INFO - LIMIT ORDER REQUEST-> Symbol: BTCUSDT, Side:BUY, Quantity:0.001, Price:50000
+2026-06-11 13:58:19,320 - ERROR - LIMIT ORDER ERROR -> APIError(code=-2014): API-key format invalid.
+2026-06-11 13:59:11,435 - INFO - LIMIT ORDER REQUEST-> Symbol: BTCUSDT, Side:BUY, Quantity:0.001, Price:50000
+2026-06-11 13:59:11,791 - ERROR - LIMIT ORDER ERROR -> APIError(code=-2014): API-key format invalid.
+2026-06-11 14:00:47,683 - INFO - LIMIT ORDER REQUEST-> Symbol: BTCUSDT, Side:BUY, Quantity:0.001, Price:50000
+2026-06-11 14:00:48,073 - INFO - LIMIT ORDER RESPONSE -> {'orderId': 14727681328, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJd004ced2e4b59cdcf2cb58', 'price': '50000.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1781166647992}
